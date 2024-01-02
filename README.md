@@ -20,8 +20,11 @@
 	```
 
 
-# you can take a clone of this EventManagement system.
+# **you can take a clone of this EventManagement system.**
 	``` $ git clone https://github.com/mukulsoni1211/EventManagement```
+
+# **API Collection:**
+	public/api_collection.json
 
 Now, go to the application's repository:-
 	``` cd EventManagement ```
